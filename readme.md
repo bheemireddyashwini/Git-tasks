@@ -5,5 +5,5 @@ GitHub (/ˈɡɪthʌb/[a]) is a developer platform that allows developers to crea
 ## Founding
 The development of the GitHub platform began on October 19, 2007.[13][14][15] The site was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, P. J. Hyett and Scott Chacon after it had been available for a few months as a beta release.[16] GitHub has an annual keynote called GitHub Universe.[17]
 
-# to check the repository-status
+# To check the repository-status : command 
 git status
