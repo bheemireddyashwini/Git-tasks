@@ -1,0 +1,4 @@
+# About Git-hub
+
+GitHub (/ˈɡɪthʌb/[a]) is a developer platform that allows developers to create, store, manage and share their code. It uses Git software, providing the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.[7] Headquartered in California, it has been a subsidiary of Microsoft since 2018.[8]
+
