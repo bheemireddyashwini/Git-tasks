@@ -24,8 +24,12 @@ To stage and commit at the same time
 
 ## git commit -am "write your message"
 
+To check the history log (all the commits:id , author, date, message)
+## git log
+
 To switch to the target Id, 
 
 ## git checkout <commit ID>
 
-And a safer way would be adding -b like : 'git checkout -b <commit ID>'
+To switch the target commit id from the history log,And a safer way would be adding -b like :
+'git checkout -b branchName <commit ID>'
